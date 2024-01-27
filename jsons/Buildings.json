@@ -11,4 +11,17 @@
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	},
+	{
+        "name": "Stilt Houses",
+        "replaces": "Water Mill",
+        "uniqueTo": "Babylon",
+        "food": 2,
+        "production": 1,
+        "uniques": [
+"[+1 Production] from [Lakes] tiles [in this city]", 
+"[+1 Culture] from [Lakes] tiles [in this city] <After discovering [Education]>", 
+"Must be next to [Fresh water]"],
+        "hurryCostModifier": 25,
+        "requiredTech": "Sailing"
+    },
 ]
