@@ -7,7 +7,7 @@
 	}
 	{
 		"name": "God-King head",
-		"uniqueTo": "The Celts",
+		"uniqueTo": "Celts",
 		"terrainsCanBeBuiltOn": ["Jungle","Forest"],
 		"faith": 2,
 		"turnsToBuild": 5,
