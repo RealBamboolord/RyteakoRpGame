@@ -5,4 +5,13 @@
 		"techRequired": "Trapping",
 		"uniques": ["[+1 Culture, +1 Gold] <after discovering [Acoustics]>", "Can only be built to improve a resource", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"]
 	}
+	{
+		"name": "God-King head",
+		"uniqueTo": "The Celts",
+		"terrainsCanBeBuiltOn": ["Jungle","Forest"],
+		"faith": 2,
+		"turnsToBuild": 5,
+		"techRequired": "Calendar",
+		"uniques": ["[+1 Culture, +1 Gold] <after discovering [Archaeology]>","[+1 Science] for each adjacent [Great Improvement]"]
+	},
 ]
