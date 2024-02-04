@@ -47,4 +47,13 @@
 		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Expert Worker",
+		"unitType": "Civilian",
+		"replaces": "Worker",
+		"uniqueTo": "Rome",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "[-25]% construction time for [All] improvements", "Automation is a primary action"],
+		"cost": 50
+	},
 ]
