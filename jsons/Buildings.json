@@ -54,4 +54,14 @@
 			"[+2 Culture, +2 Faith] <during a Golden Age>"
 		]
 	},
+	{
+		"name": "Sacred Revelation",
+		"uniqueTo": "Byzantium",
+		"cost": 1,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+3 Faith] from every [Mountain]",
+			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"
+		],
+	},
 ]
