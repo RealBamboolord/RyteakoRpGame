@@ -1,7 +1,11 @@
 [
 
-{
+	{
 		"name": "Knightly Order",
 		"uniques": ["Religious Unit", "Can Spread Religion <for [2] movement> <[1] times>"]
+	},
+	{
+		"name": "Cold Blooded",
+		"uniques": ["Double movement in [Snow]","Double movement in [Tundra]"]
 	},
 ]
