@@ -38,4 +38,20 @@
 			
 		],
 	},
+	{
+		"name": "Fertility Dance Hall",
+		"replaces": "Shrine",
+		"uniqueTo": "Denmark",
+		"faith": 1,
+		"culture": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": [
+			"Hidden when religion is disabled",
+			"[+5]% growth [in this city]",
+			"[+5]% growth [in this city] <during a Golden Age>",
+			"[+2 Culture, +2 Faith] <during a Golden Age>"
+		]
+	},
 ]
