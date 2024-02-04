@@ -24,4 +24,18 @@
         "hurryCostModifier": 25,
         "requiredTech": "Sailing"
     },
+	{
+		"name": "Cold-blooded",
+		"uniqueTo": "Russia",
+		"cost": 1,
+		"isNationalWonder": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Land units may cross [Mountain] tiles after the first [Civilian] is earned",
+			"No Maintenance costs for improvements in [Snow] tiles",
+			"No Maintenance costs for improvements in [Tundra] tiles",
+			"[All] units gain the [Cold Blooded] promotion",
+			
+		],
+	},
 ]
