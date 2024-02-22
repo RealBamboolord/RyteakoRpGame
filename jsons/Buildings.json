@@ -64,4 +64,11 @@
 			"Gain a free [Pantheon] belief"
 		],
 	},
+	{
+		"name": "Reinforcements",
+		"uniqueTo": "Babylon",
+		"cost": 0,
+		"uniques": ["[2] free [Spearman] units appear",
+		"[1] free [Archer] units appear"],
+	},
 ]
