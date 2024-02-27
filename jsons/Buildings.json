@@ -75,7 +75,7 @@
 "name": "The Takeover",
 "uniqueTo": "Babylon",
 "cost": 0,
-"unique": [
+"uniques": [
 "Will not be displayed in Civilopedia",
 "Only available <in cities with a [Palace]",
 "Gain enough Faith for a Pantheon",
