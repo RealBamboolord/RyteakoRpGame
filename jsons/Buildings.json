@@ -71,4 +71,19 @@
 		"uniques": ["[2] free [Spearman] units appear",
 		"[1] free [Archer] units appear"],
 	},
+	{
+"name": "The Takeover",
+"uniqueTo": "Babylon",
+"cost": 0,
+"unique": [
+"Will not be displayed in Civilopedia",
+"Only available <in cities with a [Palace]",
+"Gain enough Faith for a Pantheon",
+"[2] free [Great prophet] units appear",
+"[2] free [Settler] units appear",
+"[2] free [Worker] units appear",
+"When defeating a [Barbarian] unit, earn [10] Gold and recruit it",
+"[+3] Movement <for [Settler] units>",
+],
+	},
 ]
